@@ -5,3 +5,4 @@ Projeto base para aplicações React.js utilizando Typescript
 - Context API
 - Axios
 - Tailwind (opcional, pode ficar em uma branch separada)
+- Componente de Loading
